@@ -117,6 +117,3 @@ Este projeto implementa a **mesma interface** utilizando **quatro técnicas dife
 
 ---
 ```
-
-Quer que eu também prepare **modelos curtos de README.md** para colocar **dentro de cada pasta** (`01-css-global/`, `02-css-modules/`, etc.), explicando só a técnica usada?
-```
